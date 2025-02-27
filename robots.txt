@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ukawka.github.io/LiuGamesStudio/sitemap.xml
+Sitemap: https://ukawka.github.io/sitemap.xml

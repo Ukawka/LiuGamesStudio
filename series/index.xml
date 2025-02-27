@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on LiuGamesStudio</title>
-    <link>https://ukawka.github.io/LiuGamesStudio/series/</link>
+    <link>https://ukawka.github.io/series/</link>
     <description>Recent content in Series on LiuGamesStudio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>m18310508160@163.com (Ukawka)</managingEditor>
     <webMaster>m18310508160@163.com (Ukawka)</webMaster>
     <copyright>© 2025 Ukawka</copyright>
-    <atom:link href="https://ukawka.github.io/LiuGamesStudio/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ukawka.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
