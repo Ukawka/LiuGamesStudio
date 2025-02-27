@@ -1,21 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
     <loc>https://ukawka.github.io/LiuGamesStudio/</loc>
-    <lastmod>2025-02-27T15:15:16+08:00</lastmod>
-  </url><url>
-    <loc>https://ukawka.github.io/LiuGamesStudio/posts/my-second-post/</loc>
-    <lastmod>2025-02-27T15:15:16+08:00</lastmod>
-  </url><url>
+    <lastmod>2024-12-25T15:15:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://ukawka.github.io/LiuGamesStudio/posts/</loc>
-    <lastmod>2025-02-27T15:15:16+08:00</lastmod>
-  </url><url>
-    <loc>https://ukawka.github.io/LiuGamesStudio/posts/my-first-post/</loc>
-    <lastmod>2025-02-27T15:13:25+08:00</lastmod>
-  </url><url>
-    <loc>https://ukawka.github.io/LiuGamesStudio/categories/</loc>
-  </url><url>
-    <loc>https://ukawka.github.io/LiuGamesStudio/tags/</loc>
+    <lastmod>2024-12-25T15:15:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/urban-outlast/</loc>
+    <lastmod>2024-12-25T15:15:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/voice-dream/</loc>
+    <lastmod>2024-12-25T15:15:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/%E6%89%93%E5%B7%A5%E5%92%8C%E4%BA%8B%E4%BD%AC/</loc>
+    <lastmod>2024-12-25T15:15:16+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

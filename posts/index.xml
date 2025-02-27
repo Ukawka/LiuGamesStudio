@@ -4,23 +4,42 @@
     <title>Posts on LiuGamesStudio</title>
     <link>https://ukawka.github.io/LiuGamesStudio/posts/</link>
     <description>Recent content in Posts on LiuGamesStudio</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 15:15:16 +0800</lastBuildDate>
-    <atom:link href="https://ukawka.github.io/LiuGamesStudio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>m18310508160@163.com (Ukawka)</managingEditor>
+    <webMaster>m18310508160@163.com (Ukawka)</webMaster>
+    <copyright>© 2025 Ukawka</copyright>
+    <lastBuildDate>Wed, 25 Dec 2024 15:15:16 +0800</lastBuildDate><atom:link href="https://ukawka.github.io/LiuGamesStudio/posts/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>My Second Post</title>
-      <link>https://ukawka.github.io/LiuGamesStudio/posts/my-second-post/</link>
-      <pubDate>Thu, 27 Feb 2025 15:15:16 +0800</pubDate>
-      <guid>https://ukawka.github.io/LiuGamesStudio/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;另外一个简介&#34;&gt;另外一个简介&lt;/h2&gt;</description>
+      <title>Urban Outlast</title>
+      <link>https://ukawka.github.io/LiuGamesStudio/posts/urban-outlast/</link>
+      <pubDate>Wed, 25 Dec 2024 15:15:16 +0800</pubDate>
+      <author>m18310508160@163.com (Ukawka)</author>
+      <guid>https://ukawka.github.io/LiuGamesStudio/posts/urban-outlast/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ukawka.github.io/LiuGamesStudio/posts/urban-outlast/featured.jpg" />
     </item>
+    
     <item>
-      <title>My First Post</title>
-      <link>https://ukawka.github.io/LiuGamesStudio/posts/my-first-post/</link>
-      <pubDate>Thu, 27 Feb 2025 15:13:25 +0800</pubDate>
-      <guid>https://ukawka.github.io/LiuGamesStudio/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt;这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。&lt;/p&gt;&#xA;&lt;p&gt;访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&#xA;你好&#xA;你好&#xA;你好&lt;/p&gt;</description>
+      <title>Voice Dream</title>
+      <link>https://ukawka.github.io/LiuGamesStudio/posts/voice-dream/</link>
+      <pubDate>Wed, 25 Dec 2024 15:15:16 +0800</pubDate>
+      <author>m18310508160@163.com (Ukawka)</author>
+      <guid>https://ukawka.github.io/LiuGamesStudio/posts/voice-dream/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ukawka.github.io/LiuGamesStudio/posts/voice-dream/featured.jpg" />
     </item>
+    
+    <item>
+      <title>打工和事佬</title>
+      <link>https://ukawka.github.io/LiuGamesStudio/posts/%E6%89%93%E5%B7%A5%E5%92%8C%E4%BA%8B%E4%BD%AC/</link>
+      <pubDate>Wed, 25 Dec 2024 15:15:16 +0800</pubDate>
+      <author>m18310508160@163.com (Ukawka)</author>
+      <guid>https://ukawka.github.io/LiuGamesStudio/posts/%E6%89%93%E5%B7%A5%E5%92%8C%E4%BA%8B%E4%BD%AC/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ukawka.github.io/LiuGamesStudio/posts/%E6%89%93%E5%B7%A5%E5%92%8C%E4%BA%8B%E4%BD%AC/featured.jpg" />
+    </item>
+    
   </channel>
 </rss>
