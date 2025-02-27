@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/</loc>
     <lastmod>2025-02-27T15:15:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-second-post/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/my-second-post/</loc>
     <lastmod>2025-02-27T15:15:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/</loc>
     <lastmod>2025-02-27T15:15:16+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/posts/my-first-post/</loc>
     <lastmod>2025-02-27T15:13:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://ukawka.github.io/LiuGamesStudio/tags/</loc>
   </url>
 </urlset>
